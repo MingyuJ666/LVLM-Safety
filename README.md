@@ -14,7 +14,8 @@
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 
      - Other Attack Methods
-        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+        - [On Evaluating Adversarial Robustness of Large Vision-Language Models
+](https://arxiv.org/abs/2305.16934)
      - Privacy-Watermark
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 4: Defense Mechanisms
