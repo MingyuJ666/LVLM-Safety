@@ -12,12 +12,17 @@
        
      - Backdoor
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+
+     - Other Attack Methods
+        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
      - Privacy-Watermark
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 4: Defense Mechanisms
      - Defense for Jailbreak
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
      - Defense for Backdoor
+       - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+     - Defense for Other Attack Methods
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 5: Application Risk and Solution
      - Hallucination-Corresponding Solution
@@ -26,8 +31,7 @@
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
      - IP Infringement -> model stealing
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
-- 6: Other Attacks
-    - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+
 
 - 7: Limitations offanshi Existing Works and Future Research Directions
     - [The title of the paper...](https://arxiv.org/abs/2403.17336)
