@@ -3,9 +3,9 @@
 
 ## Collections of papers
 - 1: Introduction
-     - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+     -- [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 2: VLLM Architecture
-     - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+     -- [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 3: Threaten and Attack
      - Jailbreak
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
@@ -27,8 +27,8 @@
      - IP Infringement -> model stealing
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 6: Other Attacks
-    - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+    -- [The title of the paper...](https://arxiv.org/abs/2403.17336)
 
 - 7: Limitations offanshi Existing Works and Future Research Directions
-    - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+    -- [The title of the paper...](https://arxiv.org/abs/2403.17336)
        
