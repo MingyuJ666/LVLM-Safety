@@ -11,7 +11,27 @@
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
        
      - Backdoor
-        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+          - LLMs Backdoor Attack  
+             - [Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection](https://openreview.net/pdf?id=A3y6CdiUP5)
+             - [Badchain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://arxiv.org/pdf/2401.12242.pdf))
+             - [Composite Backdoor Attacks Against Large Language Models](https://arxiv.org/pdf/2310.07676.pdf)
+             - [Instructions as backdoors: Backdoor vulnerabilities of instruction tuning for large language models](https://arxiv.org/abs/2403.17336)
+             - [Learning to Poison Large Language Models During Instruction Tuning](https://arxiv.org/pdf/2402.13459.pdf)
+             - [LoRA-as-an-Attack! Piercing LLM Safety Under The Share-and-Play Scenario](https://openreview.net/pdf?id=EV46z1RKhz3)
+             - [PoisonedRAG: Knowledge Poisoning Attacks to Retrieval-Augmented Generation of Large Language Models](https://arxiv.org/pdf/2402.07867.pdf)
+             - [Poisoning Language Models During Instruction Tuning](https://proceedings.mlr.press/v202/wan23b/wan23b.pdf)
+             - [PoisonPrompt: Backdoor Attack on Prompt-Based Large Language Models](https://arxiv.org/html/2310.12439v2)
+             - [Rapid Adoption, Hidden Risks: The Dual Impact of Large Language Model Customization](https://arxiv.org/pdf/2402.09179.pdf)
+             - [Syntactic Ghost: An Imperceptible General-purpose Backdoor Attacks on Pre-trained Language Models](https://arxiv.org/pdf/2402.18945.pdf)
+             - [The Poison of Alignment](https://arxiv.org/pdf/2308.13449.pdf)
+             - [Universal Jailbreak Backdoors from Poisoned Human Feedback](https://arxiv.org/pdf/2311.14455.pdf)
+             - [Universal Vulnerabilities in Large Language Models: Backdoor Attacks for In-context Learning](https://www.researchgate.net/profile/Shuai-Zhao-68/publication/377810700_Universal_Vulnerabilities_in_Large_Language_Models_Backdoor_Attacks_for_In-context_Learning/links/65cf68ae476dd15fb33c7a65/Universal-Vulnerabilities-in-Large-Language-Models-Backdoor-Attacks-for-In-context-Learning.pdf)
+          - LVLMs Backdoor Attack
+             - [ImgTrojan: Jailbreaking Vision-Language Models with ONE Image](https://arxiv.org/pdf/2403.02910.pdf)
+             - [Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models](https://arxiv.org/pdf/2402.06659.pdf)
+             - [Test-Time Backdoor Attacks on Multimodal Large Language Models](https://arxiv.org/pdf/2402.08577.pdf)
+             - [VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models
+](https://arxiv.org/pdf/2402.13851.pdf)
 
      - Other Attack Methods
         - [On Evaluating Adversarial Robustness of Large Vision-Language Models
@@ -22,7 +42,12 @@
      - Defense for Jailbreak
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
      - Defense for Backdoor
-       - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+       - [Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space](https://arxiv.org/pdf/2402.12026.pdf)
+       - [Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2402.12168.pdf)
+       - [LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors](https://arxiv.org/pdf/2308.13904.pdf)
+       - [Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://arxiv.org/pdf/2312.00027.pdf)
+       - [Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations](https://arxiv.org/pdf/2311.09763.pdf)
+       - [The Philosopher’s Stone: Trojaning Plugins of Large Language Models](https://arxiv.org/abs/2312.00374)
      - Defense for Other Attack Methods
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 5: Application Risk and Solution
@@ -34,6 +59,6 @@
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 
 
-- 7: Limitations offanshi Existing Works and Future Research Directions
+- 7: Limitations of Existing Works and Future Research Directions
     - [The title of the paper...](https://arxiv.org/abs/2403.17336)
        
