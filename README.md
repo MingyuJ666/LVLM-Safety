@@ -34,8 +34,10 @@
 ](https://arxiv.org/pdf/2402.13851.pdf)
 
      - Other Attack Methods
-        - [On Evaluating Adversarial Robustness of Large Vision-Language Models
-](https://arxiv.org/abs/2305.16934)
+        - [On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934.pdf)
+        - [Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks](https://arxiv.org/pdf/2402.00626.pdf)
+        - [INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/pdf/2312.01886.pdf)
+
      - Privacy-Watermark
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 4: Defense Mechanisms
