@@ -24,10 +24,18 @@
         - Attack Exclude LLMs
              - [FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts](http://arxiv.org/abs/2311.05608)
              - [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](http://arxiv.org/abs/2307.14539) 
-     - Backdoor
+    - Backdoor
+          - Classical Backdoor Attack
+             - [Badnets: Identifying vulnerabilities in the machine learning model supply chain.](https://arxiv.org/abs/1708.06733)
+             - [Protecting intellectual property of deep neural networks with watermarking.](https://dl.acm.org/doi/pdf/10.1145/3196494.3196550?casa_token=NFvV7QfCfYwAAAAA:Pt-OhWycRh4T_jvt9nXAIBhDzR57SgqmpKBRSI6VPKshzcGcAKAWSxvFrcmA2XRCvByArKZNdROf)
+             - [Latent backdoor attacks on deep neural networks.](https://dl.acm.org/doi/pdf/10.1145/3319535.3354209)
+             - [Input-aware dynamic backdoor attack.](https://proceedings.neurips.cc/paper_files/paper/2020/file/234e691320c0ad5b45ee3c96d0d7b8f8-Paper.pdf)
+             - [Complex backdoor detection by symmetric feature differencing.](https://openaccess.thecvf.com/content/CVPR2022/papers/Liu_Complex_Backdoor_Detection_by_Symmetric_Feature_Differencing_CVPR_2022_paper.pdf)
+             - [Distribution preserving backdoor attack in self-supervised learning.](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a029/1RjEa5rjsHK)
+             - [Rethinking the reverse-engineering of trojan triggers.](https://proceedings.neurips.cc/paper_files/paper/2022/file/3f9bf45ea04c98ad7cb857f951f499e2-Paper-Conference.pdf)
           - LLMs Backdoor Attack  
              - [Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection](https://openreview.net/pdf?id=A3y6CdiUP5)
-             - [Badchain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://arxiv.org/pdf/2401.12242.pdf))
+             - [Badchain: Backdoor Chain-of-Thought Prompting for Large Language Models](https://arxiv.org/pdf/2401.12242.pdf)
              - [Composite Backdoor Attacks Against Large Language Models](https://arxiv.org/pdf/2310.07676.pdf)
              - [Instructions as backdoors: Backdoor vulnerabilities of instruction tuning for large language models](https://arxiv.org/abs/2403.17336)
              - [Learning to Poison Large Language Models During Instruction Tuning](https://arxiv.org/pdf/2402.13459.pdf)
@@ -40,12 +48,14 @@
              - [The Poison of Alignment](https://arxiv.org/pdf/2308.13449.pdf)
              - [Universal Jailbreak Backdoors from Poisoned Human Feedback](https://arxiv.org/pdf/2311.14455.pdf)
              - [Universal Vulnerabilities in Large Language Models: Backdoor Attacks for In-context Learning](https://www.researchgate.net/profile/Shuai-Zhao-68/publication/377810700_Universal_Vulnerabilities_in_Large_Language_Models_Backdoor_Attacks_for_In-context_Learning/links/65cf68ae476dd15fb33c7a65/Universal-Vulnerabilities-in-Large-Language-Models-Backdoor-Attacks-for-In-context-Learning.pdf)
+             - [The impact of reasoning step length on large language models.](https://arxiv.org/pdf/2401.04925.pdf)
           - LVLMs Backdoor Attack
              - [ImgTrojan: Jailbreaking Vision-Language Models with ONE Image](https://arxiv.org/pdf/2403.02910.pdf)
              - [Shadowcast: Stealthy Data Poisoning Attacks Against Vision-Language Models](https://arxiv.org/pdf/2402.06659.pdf)
              - [Test-Time Backdoor Attacks on Multimodal Large Language Models](https://arxiv.org/pdf/2402.08577.pdf)
              - [VL-Trojan: Multimodal Instruction Backdoor Attacks against Autoregressive Visual Language Models
 ](https://arxiv.org/pdf/2402.13851.pdf)
+
 
      - Other Attack Methods
         - [On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934.pdf)
