@@ -89,12 +89,14 @@
             - [Diffusion Models for Adversarial Purification](http://arxiv.org/abs/2205.07460)
             - [LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked](http://arxiv.org/abs/2308.07308)
      - Defense for Backdoor
-       - [Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space](https://arxiv.org/pdf/2402.12026.pdf)
-       - [Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2402.12168.pdf)
-       - [LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors](https://arxiv.org/pdf/2308.13904.pdf)
-       - [Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://arxiv.org/pdf/2312.00027.pdf)
-       - [Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations](https://arxiv.org/pdf/2311.09763.pdf)
-       - [The Philosopher’s Stone: Trojaning Plugins of Large Language Models](https://arxiv.org/abs/2312.00374)
+       - Security and Reliability 
+            - [Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space](https://arxiv.org/pdf/2402.12026.pdf)
+            - [LMSanitator: Defending Prompt-Tuning Against Task-Agnostic Backdoors](https://arxiv.org/pdf/2308.13904.pdf)
+            - [The Philosopher’s Stone: Trojaning Plugins of Large Language Models](https://arxiv.org/abs/2312.00374)
+       - Defense
+            - [Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2402.12168.pdf)
+            - [Test-time Backdoor Mitigation for Black-Box Large Language Models with Defensive Demonstrations](https://arxiv.org/pdf/2311.09763.pdf)
+            - [Stealthy and Persistent Unalignment on Large Language Models via Backdoor Injections](https://arxiv.org/pdf/2312.00027.pdf)
      - Defense for Other Attack Methods
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 5: Application Risk and Solution
@@ -103,7 +105,7 @@
      - Misinformation
        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
      - Privacy
-       - [A survey on large language model (llm) security and privacy: The good, the bad, and the ugly](https://www.sciencedirect.com/science/article/pii/S266729522400014X)
+       - [A survey on large language model security and privacy: The good, the bad, and the ugly](https://www.sciencedirect.com/science/article/pii/S266729522400014X)
        -  Membership Inference Attack
           - [Revisiting membership inference under realistic assumptions](https://arxiv.org/abs/2005.10881)
           - [Label-only membership inference attacks](https://proceedings.mlr.press/v139/choquette-choo21a.html)
