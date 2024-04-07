@@ -55,13 +55,17 @@
      - Privacy-Watermark
         - [The science of detecting llm-generated texts](https://arxiv.org/abs/2303.07205)
         - [A survey of text watermarking in the era of large language models](https://arxiv.org/abs/2312.07913)
-        - Training Time WaterMark
-        - - [Watermarking text data on large language models for dataset copyright protection](https://arxiv.org/abs/2305.13257)
+        - Training Time Watermark
+          - [Watermarking text data on large language models for dataset copyright protection](https://arxiv.org/abs/2305.13257)
           - [Double-I Watermark: Protecting Model Copyright for LLM Fine-tuning](https://arxiv.org/abs/2402.14883)
           - [Did you train on my dataset? towards public dataset protection with cleanlabel backdoor watermarking](https://dl.acm.org/doi/abs/10.1145/3606274.3606279?casa_token=XpqF5nSd3KoAAAAA:kaqTQCvLdNFENQCzJ5JClUC1KMM7e-u9ypJ2zNJajucpuTdyXHxNTecaD098g_i6z4NBqYV8LqHYWg4)
-          - []()
-          - []()
-          - []()
+          - [Codemark: Imperceptible watermarking for code datasets against neural code completion models](https://dl.acm.org/doi/abs/10.1145/3611643.3616297?casa_token=BRChaVDBIWAAAAAA:0ab9SSFcxWkel3nS0IJ6GlN2jLstk65GV8nzk-yHW5RyKY3wF2V9hQAURB_Plm51LhlePlYDeTQGacs)
+          - [Resilient Watermarking for LLM-Generated Codes](https://arxiv.org/abs/2402.07518)
+        - Generation Time Watermark
+          -[A watermark for large language models](https://proceedings.mlr.press/v202/kirchenbauer23a.html)
+          -[]()
+          
+          
         
 - 4: Defense Mechanisms
      - Defense for Jailbreak
