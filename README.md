@@ -62,8 +62,10 @@
           - [Codemark: Imperceptible watermarking for code datasets against neural code completion models](https://dl.acm.org/doi/abs/10.1145/3611643.3616297?casa_token=BRChaVDBIWAAAAAA:0ab9SSFcxWkel3nS0IJ6GlN2jLstk65GV8nzk-yHW5RyKY3wF2V9hQAURB_Plm51LhlePlYDeTQGacs)
           - [Resilient Watermarking for LLM-Generated Codes](https://arxiv.org/abs/2402.07518)
         - Generation Time Watermark
-          -[A watermark for large language models](https://proceedings.mlr.press/v202/kirchenbauer23a.html)
-          -[]()
+          - [A watermark for large language models](https://proceedings.mlr.press/v202/kirchenbauer23a.html)
+          - [Who wrote this code? watermarking for code generation](https://arxiv.org/abs/2305.15060)
+          - [Towards codable text watermarking for large language models](https://arxiv.org/abs/2307.15992)
+          
           
           
         
