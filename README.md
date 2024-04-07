@@ -1,4 +1,4 @@
-# VLLM-Safety
+# LVLM-Safety
 
 
 ## Collections of papers
