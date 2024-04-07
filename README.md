@@ -11,9 +11,8 @@
      - [Improved baselines with visual instruction tuning](https://arxiv.org/abs/2310.03744)
      - [Visual instruction tuning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6dcf277ea32ce3288914faf369fe6de0-Abstract-Conference.html)
      - [Minigpt-v2: large language model as a unified interface for vision-language multi-task learning](https://arxiv.org/abs/2310.09478)
-     - [The title of the paper...](https://arxiv.org/abs/2403.17336)
-     - [The title of the paper...](https://arxiv.org/abs/2403.17336)
-     - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+     - [Flamingo: a visual language model for few-shot learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html)
+     - [Minigpt-4: Enhancing vision-language understanding with advanced large language models](https://arxiv.org/abs/2304.10592)
 - 3: Threaten and Attack
      - Jailbreak
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
