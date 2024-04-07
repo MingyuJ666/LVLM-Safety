@@ -99,9 +99,9 @@
           - [Label-only membership inference attacks](https://proceedings.mlr.press/v139/choquette-choo21a.html)
           - [Membership inference attacks from first principles](https://ieeexplore.ieee.org/abstract/document/9833649)
        - PII Attack
-         - (Are large pre-trained language models leaking your personal information?)[https://arxiv.org/abs/2205.12628]
-         - (Propile: Probing privacy leakage in large language models)[https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html]
-         - (Analyzing information leakage of updates to natural language models)[https://dl.acm.org/doi/abs/10.1145/3372297.3417880?casa_token=Q707t7Q5ji0AAAAA:QV3IjXpYsBdoKowpoy7sEQ1C1vClzTn33EHHwaB0ZefMMgdWu1B327asJnDNDdoUtrkiPcz-HDno9qU]
+         - [Are large pre-trained language models leaking your personal information?](https://arxiv.org/abs/2205.12628)
+         - [Propile: Probing privacy leakage in large language models](https://proceedings.neurips.cc/paper_files/paper/2023/hash/420678bb4c8251ab30e765bc27c3b047-Abstract-Conference.html)
+         - [Analyzing information leakage of updates to natural language models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880?casa_token=Q707t7Q5ji0AAAAA:QV3IjXpYsBdoKowpoy7sEQ1C1vClzTn33EHHwaB0ZefMMgdWu1B327asJnDNDdoUtrkiPcz-HDno9qU)
          
 
 - 7: Limitations of Existing Works and Future Research Directions
