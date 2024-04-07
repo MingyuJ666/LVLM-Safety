@@ -53,7 +53,11 @@
         - [INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/pdf/2312.01886.pdf)
 
      - Privacy-Watermark
-        - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+        - [The science of detecting llm-generated texts](https://arxiv.org/abs/2303.07205)
+        - [A survey of text watermarking in the era of large language models](https://arxiv.org/abs/2312.07913)
+        - Training Time WaterMark
+        - - [A survey of text watermarking in the era of large language models](https://arxiv.org/abs/2312.07913)
+        
 - 4: Defense Mechanisms
      - Defense for Jailbreak
        - Datasets
