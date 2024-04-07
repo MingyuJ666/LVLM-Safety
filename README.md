@@ -4,12 +4,19 @@
 ## Collections of papers
 - 1: Introduction
      - [The title of the paper...](https://arxiv.org/abs/2403.17336)
-- 2: VLLM Architecture
+- 2: LVLM Architecture
      - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 3: Threaten and Attack
      - Jailbreak
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
-       
+        - Attack Include LLMs
+             - [Are aligned neural networks adversarially aligned?](http://arxiv.org/abs/2306.15447)
+             - [How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](http://arxiv.org/abs/2311.16101)
+             - [Jailbreaking Attack against Multimodal Large Language Model](http://arxiv.org/abs/2402.02309)
+             - [Visual Adversarial Examples Jailbreak Aligned Large Language Models](http://arxiv.org/abs/2306.13213) 
+        - Attack Exclude LLMs
+             - [FigStep: Jailbreaking Large Vision-language Models via Typographic Visual Prompts](http://arxiv.org/abs/2311.05608)
+             - [Jailbreak in pieces: Compositional Adversarial Attacks on Multi-Modal Language Models](http://arxiv.org/abs/2307.14539) 
      - Backdoor
           - LLMs Backdoor Attack  
              - [Backdooring Instruction-Tuned Large Language Models with Virtual Prompt Injection](https://openreview.net/pdf?id=A3y6CdiUP5)
@@ -42,7 +49,13 @@
         - [The title of the paper...](https://arxiv.org/abs/2403.17336)
 - 4: Defense Mechanisms
      - Defense for Jailbreak
-       - [The title of the paper...](https://arxiv.org/abs/2403.17336)
+       - Datasets
+            - [Red Teaming Visual Language Models](http://arxiv.org/abs/2401.12915)
+            - [Self-Guard: Empower the LLM to Safeguard Itself](http://arxiv.org/abs/2310.15851)
+       - Defense
+            - [A Mutation-Based Method for Multi-Modal Jailbreaking Attack Detection](http://arxiv.org/abs/2312.10766)
+            - [Diffusion Models for Adversarial Purification](http://arxiv.org/abs/2205.07460)
+            - [LLM Self Defense: By Self Examination, LLMs Know They Are Being Tricked](http://arxiv.org/abs/2308.07308)
      - Defense for Backdoor
        - [Acquiring Clean Language Models from Backdoor Poisoned Datasets by Downscaling Frequency Space](https://arxiv.org/pdf/2402.12026.pdf)
        - [Defending Against Weight-Poisoning Backdoor Attacks for Parameter-Efficient Fine-Tuning](https://arxiv.org/pdf/2402.12168.pdf)
