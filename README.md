@@ -58,9 +58,12 @@
 
 
      - Other Attack Methods
-        - [On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/abs/2305.16934.pdf)
+        - [On Evaluating Adversarial Robustness of Large Vision-Language Models](https://arxiv.org/pdf/2305.16934.pdf)
         - [Vision-LLMs Can Fool Themselves with Self-Generated Typographic Attacks](https://arxiv.org/pdf/2402.00626.pdf)
         - [INSTRUCTTA: Instruction-Tuned Targeted Attack for Large Vision-Language Models](https://arxiv.org/pdf/2312.01886.pdf)
+        - [On the Robustness of Large Multimodal Models Against Image Adversarial Attacks](https://arxiv.org/pdf/2312.03777.pdf)
+        - [How Many Unicorns Are in This Image? A Safety Evaluation Benchmark for Vision LLMs](https://arxiv.org/pdf/2311.16101.pdf)
+        - [On the Adversarial Robustness of Multi-Modal Foundation Models](https://arxiv.org/pdf/2308.10741.pdf)
 
      - Privacy-Watermark
         - [The science of detecting llm-generated texts](https://arxiv.org/abs/2303.07205)
