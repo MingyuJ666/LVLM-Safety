@@ -1,5 +1,7 @@
 # LVLM-Safety
 
+## Full Paper on Research Gate:
+[Large Vision-Language Model Security: A Survey](https://www.researchgate.net/publication/387444860_Large_Vision-Language_Model_Security_A_Survey)
 
 ## Collections of papers
 - 1: Introduction
@@ -119,6 +121,6 @@
          - [Analyzing information leakage of updates to natural language models](https://dl.acm.org/doi/abs/10.1145/3372297.3417880?casa_token=Q707t7Q5ji0AAAAA:QV3IjXpYsBdoKowpoy7sEQ1C1vClzTn33EHHwaB0ZefMMgdWu1B327asJnDNDdoUtrkiPcz-HDno9qU)
          
 
-- 7: Limitations of Existing Works and Future Research Directions
+- 6: Limitations of Existing Works and Future Research Directions
     - [The title of the paper...](https://arxiv.org/abs/2403.17336)
        
